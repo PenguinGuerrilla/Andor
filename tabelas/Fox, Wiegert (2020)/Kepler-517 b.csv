@@ -1,0 +1,111 @@
+# This file was produced by the NASA Exoplanet Archive  http://exoplanetarchive.ipac.caltech.edu
+# Fri Nov  1 04:55:04 2024
+#
+# User preference: *
+#
+# CONSTRAINT:  where (pl_name_display like '%Kepler-517 b%')
+#
+# COLUMN pl_name:        Planet Name
+# COLUMN hostname:       Host Name
+# COLUMN default_flag:   Default Parameter Set
+# COLUMN sy_snum:        Number of Stars
+# COLUMN sy_pnum:        Number of Planets
+# COLUMN discoverymethod: Discovery Method
+# COLUMN disc_year:      Discovery Year
+# COLUMN disc_facility:  Discovery Facility
+# COLUMN soltype:        Solution Type
+# COLUMN pl_controv_flag: Controversial Flag
+# COLUMN pl_refname:     Planetary Parameter Reference
+# COLUMN pl_orbper:      Orbital Period [days]
+# COLUMN pl_orbpererr1:  Orbital Period Upper Unc. [days]
+# COLUMN pl_orbpererr2:  Orbital Period Lower Unc. [days]
+# COLUMN pl_orbperlim:   Orbital Period Limit Flag
+# COLUMN pl_orbsmax:     Orbit Semi-Major Axis [au]
+# COLUMN pl_orbsmaxerr1: Orbit Semi-Major Axis Upper Unc. [au]
+# COLUMN pl_orbsmaxerr2: Orbit Semi-Major Axis Lower Unc. [au]
+# COLUMN pl_orbsmaxlim:  Orbit Semi-Major Axis Limit Flag
+# COLUMN pl_rade:        Planet Radius [Earth Radius]
+# COLUMN pl_radeerr1:    Planet Radius Upper Unc. [Earth Radius]
+# COLUMN pl_radeerr2:    Planet Radius Lower Unc. [Earth Radius]
+# COLUMN pl_radelim:     Planet Radius Limit Flag
+# COLUMN pl_radj:        Planet Radius [Jupiter Radius]
+# COLUMN pl_radjerr1:    Planet Radius Upper Unc. [Jupiter Radius]
+# COLUMN pl_radjerr2:    Planet Radius Lower Unc. [Jupiter Radius]
+# COLUMN pl_radjlim:     Planet Radius Limit Flag
+# COLUMN pl_bmasse:      Planet Mass or Mass*sin(i) [Earth Mass]
+# COLUMN pl_bmasseerr1:  Planet Mass or Mass*sin(i) [Earth Mass] Upper Unc.
+# COLUMN pl_bmasseerr2:  Planet Mass or Mass*sin(i) [Earth Mass] Lower Unc.
+# COLUMN pl_bmasselim:   Planet Mass or Mass*sin(i) [Earth Mass] Limit Flag
+# COLUMN pl_bmassj:      Planet Mass or Mass*sin(i) [Jupiter Mass]
+# COLUMN pl_bmassjerr1:  Planet Mass or Mass*sin(i) [Jupiter Mass] Upper Unc.
+# COLUMN pl_bmassjerr2:  Planet Mass or Mass*sin(i) [Jupiter Mass] Lower Unc.
+# COLUMN pl_bmassjlim:   Planet Mass or Mass*sin(i) [Jupiter Mass] Limit Flag
+# COLUMN pl_bmassprov:   Planet Mass or Mass*sin(i) Provenance
+# COLUMN pl_orbeccen:    Eccentricity
+# COLUMN pl_orbeccenerr1: Eccentricity Upper Unc.
+# COLUMN pl_orbeccenerr2: Eccentricity Lower Unc.
+# COLUMN pl_orbeccenlim: Eccentricity Limit Flag
+# COLUMN pl_insol:       Insolation Flux [Earth Flux]
+# COLUMN pl_insolerr1:   Insolation Flux Upper Unc. [Earth Flux]
+# COLUMN pl_insolerr2:   Insolation Flux Lower Unc. [Earth Flux]
+# COLUMN pl_insollim:    Insolation Flux Limit Flag
+# COLUMN pl_eqt:         Equilibrium Temperature [K]
+# COLUMN pl_eqterr1:     Equilibrium Temperature Upper Unc. [K]
+# COLUMN pl_eqterr2:     Equilibrium Temperature Lower Unc. [K]
+# COLUMN pl_eqtlim:      Equilibrium Temperature Limit Flag
+# COLUMN ttv_flag:       Data show Transit Timing Variations
+# COLUMN st_refname:     Stellar Parameter Reference
+# COLUMN st_spectype:    Spectral Type
+# COLUMN st_teff:        Stellar Effective Temperature [K]
+# COLUMN st_tefferr1:    Stellar Effective Temperature Upper Unc. [K]
+# COLUMN st_tefferr2:    Stellar Effective Temperature Lower Unc. [K]
+# COLUMN st_tefflim:     Stellar Effective Temperature Limit Flag
+# COLUMN st_rad:         Stellar Radius [Solar Radius]
+# COLUMN st_raderr1:     Stellar Radius Upper Unc. [Solar Radius]
+# COLUMN st_raderr2:     Stellar Radius Lower Unc. [Solar Radius]
+# COLUMN st_radlim:      Stellar Radius Limit Flag
+# COLUMN st_mass:        Stellar Mass [Solar mass]
+# COLUMN st_masserr1:    Stellar Mass Upper Unc. [Solar mass]
+# COLUMN st_masserr2:    Stellar Mass Lower Unc. [Solar mass]
+# COLUMN st_masslim:     Stellar Mass Limit Flag
+# COLUMN st_met:         Stellar Metallicity [dex]
+# COLUMN st_meterr1:     Stellar Metallicity Upper Unc. [dex]
+# COLUMN st_meterr2:     Stellar Metallicity Lower Unc. [dex]
+# COLUMN st_metlim:      Stellar Metallicity Limit Flag
+# COLUMN st_metratio:    Stellar Metallicity Ratio
+# COLUMN st_logg:        Stellar Surface Gravity [log10(cm/s**2)]
+# COLUMN st_loggerr1:    Stellar Surface Gravity Upper Unc. [log10(cm/s**2)]
+# COLUMN st_loggerr2:    Stellar Surface Gravity Lower Unc. [log10(cm/s**2)]
+# COLUMN st_logglim:     Stellar Surface Gravity Limit Flag
+# COLUMN sy_refname:     System Parameter Reference
+# COLUMN rastr:          RA [sexagesimal]
+# COLUMN ra:             RA [deg]
+# COLUMN decstr:         Dec [sexagesimal]
+# COLUMN dec:            Dec [deg]
+# COLUMN sy_dist:        Distance [pc]
+# COLUMN sy_disterr1:    Distance [pc] Upper Unc
+# COLUMN sy_disterr2:    Distance [pc] Lower Unc
+# COLUMN sy_vmag:        V (Johnson) Magnitude
+# COLUMN sy_vmagerr1:    V (Johnson) Magnitude Upper Unc
+# COLUMN sy_vmagerr2:    V (Johnson) Magnitude Lower Unc
+# COLUMN sy_kmag:        Ks (2MASS) Magnitude
+# COLUMN sy_kmagerr1:    Ks (2MASS) Magnitude Upper Unc
+# COLUMN sy_kmagerr2:    Ks (2MASS) Magnitude Lower Unc
+# COLUMN sy_gaiamag:     Gaia Magnitude
+# COLUMN sy_gaiamagerr1: Gaia Magnitude Upper Unc
+# COLUMN sy_gaiamagerr2: Gaia Magnitude Lower Unc
+# COLUMN rowupdate:      Date of Last Update
+# COLUMN pl_pubdate:     Planetary Parameter Reference Publication Date
+# COLUMN releasedate:    Release Date
+#
+pl_name,hostname,default_flag,sy_snum,sy_pnum,discoverymethod,disc_year,disc_facility,soltype,pl_controv_flag,pl_refname,pl_orbper,pl_orbpererr1,pl_orbpererr2,pl_orbperlim,pl_orbsmax,pl_orbsmaxerr1,pl_orbsmaxerr2,pl_orbsmaxlim,pl_rade,pl_radeerr1,pl_radeerr2,pl_radelim,pl_radj,pl_radjerr1,pl_radjerr2,pl_radjlim,pl_bmasse,pl_bmasseerr1,pl_bmasseerr2,pl_bmasselim,pl_bmassj,pl_bmassjerr1,pl_bmassjerr2,pl_bmassjlim,pl_bmassprov,pl_orbeccen,pl_orbeccenerr1,pl_orbeccenerr2,pl_orbeccenlim,pl_insol,pl_insolerr1,pl_insolerr2,pl_insollim,pl_eqt,pl_eqterr1,pl_eqterr2,pl_eqtlim,ttv_flag,st_refname,st_spectype,st_teff,st_tefferr1,st_tefferr2,st_tefflim,st_rad,st_raderr1,st_raderr2,st_radlim,st_mass,st_masserr1,st_masserr2,st_masslim,st_met,st_meterr1,st_meterr2,st_metlim,st_metratio,st_logg,st_loggerr1,st_loggerr2,st_logglim,sy_refname,rastr,ra,decstr,dec,sy_dist,sy_disterr1,sy_disterr2,sy_vmag,sy_vmagerr1,sy_vmagerr2,sy_kmag,sy_kmagerr1,sy_kmagerr2,sy_gaiamag,sy_gaiamagerr1,sy_gaiamagerr2,rowupdate,pl_pubdate,releasedate
+Kepler-517 b,Kepler-517,0,2,1,Transit,2016,Kepler,Kepler Project Candidate (q1_q17_dr25_sup_koi),0,<a refstr=Q1_Q17_DR25_SUPPLEMENTAL_KOI_TABLE href=https://exoplanetarchive.ipac.caltech.edu/docs/Kepler_KOI_docs.html target=ref>Q1-Q17 DR25 Supplemental KOI Table</a>,60.92818866,0.00007966,-0.00007966,0,,,,0,,,,0,,,,,,,,,,,,,,,,,0,,,,0,,,,0,0,<a refstr=STASSUN_ET_AL__2019 href=https://ui.adsabs.harvard.edu/abs/2019AJ....158..138S/abstract target=ref>TICv8</a>,,5604.05,102.01,-134.31,0,1.04,0.06,-0.05,0,0.99,0.14,-0.12,0,-0.144,0.012,-0.012,0,[M/H],4.40,0.09,-0.07,0,<a refstr=STASSUN_ET_AL__2019 href=https://ui.adsabs.harvard.edu/abs/2019AJ....158..138S/abstract target=ref>TICv8</a>,19h34m42.12s,293.6755138,+41d17m42.74s,41.2952061,289.9070000,2.0700000,-2.0410000,12.3720000,0.0340000,-0.0340000,10.6310000,0.0180000,-0.0180000,12.1297000,0.0001690,-0.0001690,2018-09-25,2018-08-16,2018-09-25
+Kepler-517 b,Kepler-517,0,2,1,Transit,2016,Kepler,Published Confirmed,0,<a refstr=BERGER_ET_AL__2018 href=https://ui.adsabs.harvard.edu/abs/2018ApJ...866...99B/abstract target=ref>Berger et al. 2018</a>,,,,,,,,,2.759,0.133,-0.113,0,0.246,0.012,-0.010,0,,,,,,,,,,,,,,10.55,0.23,-0.23,0,,,,,0,<a refstr=BERGER_ET_AL__2018 href=https://ui.adsabs.harvard.edu/abs/2018ApJ...866...99B/abstract target=ref>Berger et al. 2018</a>,,5563.00,111.00,-111.00,0,1.01,0.04,-0.04,0,,,,,,,,,,,,,,<a refstr=STASSUN_ET_AL__2019 href=https://ui.adsabs.harvard.edu/abs/2019AJ....158..138S/abstract target=ref>TICv8</a>,19h34m42.12s,293.6755138,+41d17m42.74s,41.2952061,289.9070000,2.0700000,-2.0410000,12.3720000,0.0340000,-0.0340000,10.6310000,0.0180000,-0.0180000,12.1297000,0.0001690,-0.0001690,2018-09-04,2018-10,2018-09-06
+Kepler-517 b,Kepler-517,0,2,1,Transit,2016,Kepler,Published Confirmed,0,<a refstr=GAJDO_SCARON__ET_AL__2019 href=https://ui.adsabs.harvard.edu/abs/2019RAA....19...41G/abstract target=ref>Gajdo&scaron; et al. 2019</a>,60.92828898,0.00004676,-0.00004676,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,<a refstr=STASSUN_ET_AL__2019 href=https://ui.adsabs.harvard.edu/abs/2019AJ....158..138S/abstract target=ref>TICv8</a>,,5604.05,102.01,-134.31,0,1.04,0.06,-0.05,0,0.99,0.14,-0.12,0,-0.144,0.012,-0.012,0,[M/H],4.40,0.09,-0.07,0,<a refstr=STASSUN_ET_AL__2019 href=https://ui.adsabs.harvard.edu/abs/2019AJ....158..138S/abstract target=ref>TICv8</a>,19h34m42.12s,293.6755138,+41d17m42.74s,41.2952061,289.9070000,2.0700000,-2.0410000,12.3720000,0.0340000,-0.0340000,10.6310000,0.0180000,-0.0180000,12.1297000,0.0001690,-0.0001690,2019-04-16,2019-03,2019-04-18
+Kepler-517 b,Kepler-517,0,2,1,Transit,2016,Kepler,Kepler Project Candidate (q1_q12_koi),0,<a refstr=Q1_Q12_KOI_TABLE href=https://exoplanetarchive.ipac.caltech.edu/docs/Kepler_KOI_docs.html target=ref>Q1-Q12 KOI Table</a>,60.92832271,0.00007053,-0.00007053,0,0.288000,,,0,2.870,0.490,-0.410,0,0.256,0.044,-0.037,0,,,,,,,,,,0.000000,,,0,11.97,5.78,-3.70,0,474,,,0,0,<a refstr=Q1_Q12_KOI_TABLE href=https://exoplanetarchive.ipac.caltech.edu/docs/Kepler_KOI_docs.html target=ref>Q1-Q12 KOI Table</a>,,5598.00,110.00,-85.00,0,1.06,0.18,-0.15,0,0.86,0.08,-0.03,0,-0.120,0.180,-0.120,0,[Fe/H],4.32,0.14,-0.11,0,<a refstr=STASSUN_ET_AL__2019 href=https://ui.adsabs.harvard.edu/abs/2019AJ....158..138S/abstract target=ref>TICv8</a>,19h34m42.12s,293.6755138,+41d17m42.74s,41.2952061,289.9070000,2.0700000,-2.0410000,12.3720000,0.0340000,-0.0340000,10.6310000,0.0180000,-0.0180000,12.1297000,0.0001690,-0.0001690,2014-11-18,2014-12-04,2014-11-18
+Kepler-517 b,Kepler-517,0,2,1,Transit,2016,Kepler,Published Confirmed,0,<a refstr=HOLCZER_ET_AL__2016 href=https://ui.adsabs.harvard.edu/abs/2016ApJS..225....9H/abstract target=ref>Holczer et al. 2016</a>,60.92832947,0.00000184,-0.00000184,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,<a refstr=STASSUN_ET_AL__2019 href=https://ui.adsabs.harvard.edu/abs/2019AJ....158..138S/abstract target=ref>TICv8</a>,,5604.05,102.01,-134.31,0,1.04,0.06,-0.05,0,0.99,0.14,-0.12,0,-0.144,0.012,-0.012,0,[M/H],4.40,0.09,-0.07,0,<a refstr=STASSUN_ET_AL__2019 href=https://ui.adsabs.harvard.edu/abs/2019AJ....158..138S/abstract target=ref>TICv8</a>,19h34m42.12s,293.6755138,+41d17m42.74s,41.2952061,289.9070000,2.0700000,-2.0410000,12.3720000,0.0340000,-0.0340000,10.6310000,0.0180000,-0.0180000,12.1297000,0.0001690,-0.0001690,2016-07-26,2016-07,2016-07-28
+Kepler-517 b,Kepler-517,0,2,1,Transit,2016,Kepler,Kepler Project Candidate (q1_q8_koi),0,<a refstr=Q1_Q8_KOI_TABLE href=https://exoplanetarchive.ipac.caltech.edu/docs/Kepler_KOI_docs.html target=ref>Q1-Q8 KOI Table</a>,60.92920000,0.00039000,-0.00039000,0,0.294000,,,0,3.120,0.360,-0.360,0,0.278,0.032,-0.032,0,,,,,,,,,,0.000000,,,0,,,,0,462,,,0,0,<a refstr=Q1_Q8_KOI_TABLE href=https://exoplanetarchive.ipac.caltech.edu/docs/Kepler_KOI_docs.html target=ref>Q1-Q8 KOI Table</a>,,5598.00,56.00,-56.00,0,1.03,0.12,-0.12,0,0.91,0.03,-0.03,0,,,,0,,4.37,0.10,-0.10,0,<a refstr=STASSUN_ET_AL__2019 href=https://ui.adsabs.harvard.edu/abs/2019AJ....158..138S/abstract target=ref>TICv8</a>,19h34m42.12s,293.6755138,+41d17m42.74s,41.2952061,289.9070000,2.0700000,-2.0410000,12.3720000,0.0340000,-0.0340000,10.6310000,0.0180000,-0.0180000,12.1297000,0.0001690,-0.0001690,2013-10-28,2014-01-08,2013-10-28
+Kepler-517 b,Kepler-517,0,2,1,Transit,2016,Kepler,Kepler Project Candidate (q1_q16_koi),0,<a refstr=Q1_Q16_KOI_TABLE href=https://exoplanetarchive.ipac.caltech.edu/docs/Kepler_KOI_docs.html target=ref>Q1-Q16 KOI Table</a>,60.92832271,0.00007053,-0.00007053,0,0.288000,,,0,2.870,0.490,-0.410,0,0.256,0.044,-0.037,0,,,,,,,,,,0.000000,,,0,11.97,5.78,-3.70,0,474,,,0,0,<a refstr=Q1_Q16_KOI_TABLE href=https://exoplanetarchive.ipac.caltech.edu/docs/Kepler_KOI_docs.html target=ref>Q1-Q16 KOI Table</a>,,5598.00,110.00,-85.00,0,1.06,0.18,-0.15,0,0.86,0.08,-0.03,0,-0.120,0.180,-0.120,0,[Fe/H],4.32,0.14,-0.11,0,<a refstr=STASSUN_ET_AL__2019 href=https://ui.adsabs.harvard.edu/abs/2019AJ....158..138S/abstract target=ref>TICv8</a>,19h34m42.12s,293.6755138,+41d17m42.74s,41.2952061,289.9070000,2.0700000,-2.0410000,12.3720000,0.0340000,-0.0340000,10.6310000,0.0180000,-0.0180000,12.1297000,0.0001690,-0.0001690,2014-11-21,2014-12-18,2014-11-21
+Kepler-517 b,Kepler-517,0,2,1,Transit,2016,Kepler,Kepler Project Candidate (q1_q17_dr25_koi),0,<a refstr=Q1_Q17_DR25_KOI_TABLE href=https://exoplanetarchive.ipac.caltech.edu/docs/Kepler_KOI_docs.html target=ref>Q1-Q17 DR25 KOI Table</a>,60.92818866,0.00007966,-0.00007966,0,0.289700,,,0,2.780,0.390,-0.380,0,0.248,0.035,-0.034,0,,,,,,,,,,0.000000,,,0,11.28,4.55,-3.50,0,467,,,0,0,<a refstr=Q1_Q17_DR25_KOI_TABLE href=https://exoplanetarchive.ipac.caltech.edu/docs/Kepler_KOI_docs.html target=ref>Q1-Q17 DR25 KOI Table</a>,,5638.00,113.00,-101.00,0,1.02,0.14,-0.14,0,0.87,0.07,-0.04,0,-0.120,0.150,-0.150,0,[Fe/H],4.36,0.13,-0.10,0,<a refstr=STASSUN_ET_AL__2019 href=https://ui.adsabs.harvard.edu/abs/2019AJ....158..138S/abstract target=ref>TICv8</a>,19h34m42.12s,293.6755138,+41d17m42.74s,41.2952061,289.9070000,2.0700000,-2.0410000,12.3720000,0.0340000,-0.0340000,10.6310000,0.0180000,-0.0180000,12.1297000,0.0001690,-0.0001690,2017-05-08,2017-08-31 00:00,2017-05-08
+Kepler-517 b,Kepler-517,1,2,1,Transit,2016,Kepler,Published Confirmed,0,<a refstr=MORTON_ET_AL__2016 href=https://ui.adsabs.harvard.edu/abs/2016ApJ...822...86M/abstract target=ref>Morton et al. 2016</a>,60.92832271,0.00007053,-0.00007053,0,,,,,2.670,0.320,-0.220,0,0.238,0.029,-0.020,0,,,,,,,,,,,,,,,,,,,,,,0,<a refstr=MORTON_ET_AL__2016 href=https://ui.adsabs.harvard.edu/abs/2016ApJ...822...86M/abstract target=ref>Morton et al. 2016</a>,,5690.00,85.16,-68.99,0,0.98,0.12,-0.08,0,0.95,0.04,-0.04,0,-0.060,0.106,-0.115,0,[Fe/H],4.43,0.08,-0.10,0,<a refstr=STASSUN_ET_AL__2019 href=https://ui.adsabs.harvard.edu/abs/2019AJ....158..138S/abstract target=ref>TICv8</a>,19h34m42.12s,293.6755138,+41d17m42.74s,41.2952061,289.9070000,2.0700000,-2.0410000,12.3720000,0.0340000,-0.0340000,10.6310000,0.0180000,-0.0180000,12.1297000,0.0001690,-0.0001690,2016-05-06,2016-05,2016-05-10
+Kepler-517 b,Kepler-517,0,2,1,Transit,2016,Kepler,Kepler Project Candidate (q1_q17_dr24_koi),0,<a refstr=Q1_Q17_DR24_KOI_TABLE href=https://exoplanetarchive.ipac.caltech.edu/docs/Kepler_KOI_docs.html target=ref>Q1-Q17 DR24 KOI Table</a>,60.92832271,0.00007053,-0.00007053,0,0.288000,,,0,2.870,0.490,-0.410,0,0.256,0.044,-0.037,0,,,,,,,,,,0.000000,,,0,11.97,5.78,-3.70,0,474,,,0,0,<a refstr=Q1_Q17_DR24_KOI_TABLE href=https://exoplanetarchive.ipac.caltech.edu/docs/Kepler_KOI_docs.html target=ref>Q1-Q17 DR24 KOI Table</a>,,5598.00,110.00,-85.00,0,1.06,0.18,-0.15,0,0.86,0.08,-0.03,0,-0.120,0.180,-0.120,0,[Fe/H],4.32,0.14,-0.11,0,<a refstr=STASSUN_ET_AL__2019 href=https://ui.adsabs.harvard.edu/abs/2019AJ....158..138S/abstract target=ref>TICv8</a>,19h34m42.12s,293.6755138,+41d17m42.74s,41.2952061,289.9070000,2.0700000,-2.0410000,12.3720000,0.0340000,-0.0340000,10.6310000,0.0180000,-0.0180000,12.1297000,0.0001690,-0.0001690,2015-08-25,2015-09-24,2015-08-25
