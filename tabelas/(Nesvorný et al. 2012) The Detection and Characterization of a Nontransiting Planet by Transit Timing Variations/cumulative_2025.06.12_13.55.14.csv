@@ -1,0 +1,37 @@
+# This file was produced by the NASA Exoplanet Archive  http://exoplanetarchive.ipac.caltech.edu
+# Thu Jun 12 13:55:14 2025
+#
+# User preference: *
+#
+# CONSTRAINT:  where (kepoi_name like '%K00872.01%')
+#
+# COLUMN kepid:          KepID
+# COLUMN kepoi_name:     KOI Name
+# COLUMN kepler_name:    Kepler Name
+# COLUMN koi_disposition: Exoplanet Archive Disposition
+# COLUMN koi_pdisposition: Disposition Using Kepler Data
+# COLUMN koi_score:      Disposition Score
+# COLUMN koi_fpflag_nt:  Not Transit-Like False Positive Flag
+# COLUMN koi_fpflag_ss:  Stellar Eclipse False Positive Flag
+# COLUMN koi_fpflag_co:  Centroid Offset False Positive Flag
+# COLUMN koi_fpflag_ec:  Ephemeris Match Indicates Contamination False Positive Flag
+# COLUMN koi_period:     Orbital Period [days]
+# COLUMN koi_time0bk:    Transit Epoch [BKJD]
+# COLUMN koi_impact:     Impact Parameter
+# COLUMN koi_duration:   Transit Duration [hrs]
+# COLUMN koi_depth:      Transit Depth [ppm]
+# COLUMN koi_prad:       Planetary Radius [Earth radii]
+# COLUMN koi_teq:        Equilibrium Temperature [K]
+# COLUMN koi_insol:      Insolation Flux [Earth flux]
+# COLUMN koi_model_snr:  Transit Signal-to-Noise
+# COLUMN koi_tce_plnt_num: TCE Planet Number
+# COLUMN koi_tce_delivname: TCE Delivery
+# COLUMN koi_steff:      Stellar Effective Temperature [K]
+# COLUMN koi_slogg:      Stellar Surface Gravity [log10(cm/s**2)]
+# COLUMN koi_srad:       Stellar Radius [Solar radii]
+# COLUMN ra:             RA [decimal degrees]
+# COLUMN dec:            Dec [decimal degrees]
+# COLUMN koi_kepmag:     Kepler-band [mag]
+#
+kepid,kepoi_name,kepler_name,koi_disposition,koi_pdisposition,koi_score,koi_fpflag_nt,koi_fpflag_ss,koi_fpflag_co,koi_fpflag_ec,koi_period,koi_time0bk,koi_impact,koi_duration,koi_depth,koi_prad,koi_teq,koi_insol,koi_model_snr,koi_tce_plnt_num,koi_tce_delivname,koi_steff,koi_slogg,koi_srad,ra,dec,koi_kepmag
+7109675,K00872.01,Kepler-46 b,CONFIRMED,CANDIDATE,1.0000,0,0,0,0,33.601233710,186.6803430,0.6700,4.40560,7.4259e+03,8.46,495.0,14.22,247.90,1,q1_q17_dr25_tce,5149.00,4.447,0.9300,289.268740,42.604172,15.262

@@ -1,0 +1,40 @@
+# This file was produced by the NASA Exoplanet Archive  http://exoplanetarchive.ipac.caltech.edu
+# Mon Jun  9 12:55:20 2025
+#
+# COLUMN kepid:          KepID
+# COLUMN kepoi_name:     KOI Name
+# COLUMN kepler_name:    Kepler Name
+# COLUMN koi_disposition: Exoplanet Archive Disposition
+# COLUMN koi_pdisposition: Disposition Using Kepler Data
+# COLUMN koi_score:      Disposition Score
+# COLUMN koi_fpflag_nt:  Not Transit-Like False Positive Flag
+# COLUMN koi_fpflag_ss:  Stellar Eclipse False Positive Flag
+# COLUMN koi_fpflag_co:  Centroid Offset False Positive Flag
+# COLUMN koi_fpflag_ec:  Ephemeris Match Indicates Contamination False Positive Flag
+# COLUMN koi_period:     Orbital Period [days]
+# COLUMN koi_time0bk:    Transit Epoch [BKJD]
+# COLUMN koi_impact:     Impact Parameter
+# COLUMN koi_duration:   Transit Duration [hrs]
+# COLUMN koi_depth:      Transit Depth [ppm]
+# COLUMN koi_prad:       Planetary Radius [Earth radii]
+# COLUMN koi_teq:        Equilibrium Temperature [K]
+# COLUMN koi_insol:      Insolation Flux [Earth flux]
+# COLUMN koi_model_snr:  Transit Signal-to-Noise
+# COLUMN koi_tce_plnt_num: TCE Planet Number
+# COLUMN koi_tce_delivname: TCE Delivery
+# COLUMN koi_steff:      Stellar Effective Temperature [K]
+# COLUMN koi_slogg:      Stellar Surface Gravity [log10(cm/s**2)]
+# COLUMN koi_srad:       Stellar Radius [Solar radii]
+# COLUMN ra:             RA [decimal degrees]
+# COLUMN dec:            Dec [decimal degrees]
+# COLUMN koi_kepmag:     Kepler-band [mag]
+#
+kepid,kepoi_name,kepler_name,koi_disposition,koi_pdisposition,koi_score,koi_fpflag_nt,koi_fpflag_ss,koi_fpflag_co,koi_fpflag_ec,koi_period,koi_time0bk,koi_impact,koi_duration,koi_depth,koi_prad,koi_teq,koi_insol,koi_model_snr,koi_tce_plnt_num,koi_tce_delivname,koi_steff,koi_slogg,koi_srad,ra,dec,koi_kepmag
+8845205,K00463.01,Kepler-560 b,CONFIRMED,CANDIDATE,0.0010,0,0,0,0,18.47762694,185.269061,0.712,1.9400,2604.6,1.55,267.0,1.21,75.70,1,q1_q17_dr25_tce,3395.00,4.970,0.2830,300.206090,45.018139,14.708
+7603200,K00314.02,Kepler-138 d,CONFIRMED,CANDIDATE,1.0000,0,0,0,0,23.08902241,171.007634,0.320,1.7012,598.3,1.24,338.0,3.10,57.40,2,q1_q17_dr25_tce,3846.00,4.738,0.5030,290.381500,43.292988,12.925
+12066335,K00784.01,Kepler-231 c,CONFIRMED,CANDIDATE,1.0000,0,0,0,0,19.27153892,186.770930,0.031,2.7594,1219.8,1.93,393.0,5.66,37.10,1,q1_q17_dr25_tce,4077.00,4.702,0.5600,293.973360,50.531910,15.385
+6497146,K03284.01,Kepler-438 b,CONFIRMED,CANDIDATE,1.0000,0,0,0,0,35.23306940,135.364770,0.139,3.6740,352.8,0.97,288.0,1.62,14.50,1,q1_q17_dr25_tce,3749.00,4.743,0.5240,281.645810,41.951092,14.467
+6425957,K00663.02,Kepler-205 c,CONFIRMED,CANDIDATE,0.0080,0,0,0,0,20.30652862,172.658100,0.714,2.8014,715.4,1.58,389.0,5.40,60.80,2,q1_q17_dr25_tce,4121.00,4.709,0.5530,285.287110,41.861172,13.506
+10027323,K01596.02,Kepler-309 c,CONFIRMED,CANDIDATE,0.7380,0,0,0,0,105.35822990,138.680690,0.750,3.8100,1210.2,1.87,204.0,0.41,22.60,2,q1_q17_dr25_tce,3883.00,4.762,0.4960,297.509860,46.961262,15.157
+3966801,K00494.01,Kepler-577 b,CONFIRMED,CANDIDATE,1.0000,0,0,0,0,25.69581456,188.788890,0.680,4.0251,1130.8,1.70,314.0,2.30,45.10,1,q1_q17_dr25_tce,3787.00,4.775,0.4770,294.711940,39.073761,14.885
+11187837,K00252.01,Kepler-1663 b,CONFIRMED,CANDIDATE,1.0000,0,0,0,0,17.60461401,170.498400,0.715,3.7160,2292.1,2.64,362.0,4.07,80.10,1,q1_q17_dr25_tce,3744.00,4.737,0.5160,290.401490,48.822590,15.613

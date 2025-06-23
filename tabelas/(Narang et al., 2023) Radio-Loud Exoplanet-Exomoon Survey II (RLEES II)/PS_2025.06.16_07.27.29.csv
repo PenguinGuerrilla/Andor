@@ -1,0 +1,58 @@
+# This file was produced by the NASA Exoplanet Archive  http://exoplanetarchive.ipac.caltech.edu
+# Mon Jun 16 07:27:29 2025
+#
+# User preference: *
+#
+# CONSTRAINT:  where (pl_name_display like '%WASP-69 b%')
+#
+# COLUMN pl_name:        Planet Name
+# COLUMN hostname:       Host Name
+# COLUMN default_flag:   Default Parameter Set
+# COLUMN sy_snum:        Number of Stars
+# COLUMN sy_pnum:        Number of Planets
+# COLUMN discoverymethod: Discovery Method
+# COLUMN disc_year:      Discovery Year
+# COLUMN disc_facility:  Discovery Facility
+# COLUMN soltype:        Solution Type
+# COLUMN pl_controv_flag: Controversial Flag
+# COLUMN pl_refname:     Planetary Parameter Reference
+# COLUMN pl_orbper:      Orbital Period [days]
+# COLUMN pl_orbsmax:     Orbit Semi-Major Axis [au]
+# COLUMN pl_rade:        Planet Radius [Earth Radius]
+# COLUMN pl_radj:        Planet Radius [Jupiter Radius]
+# COLUMN pl_bmasse:      Planet Mass or Mass*sin(i) [Earth Mass]
+# COLUMN pl_bmassj:      Planet Mass or Mass*sin(i) [Jupiter Mass]
+# COLUMN pl_bmassprov:   Planet Mass or Mass*sin(i) Provenance
+# COLUMN pl_orbeccen:    Eccentricity
+# COLUMN pl_insol:       Insolation Flux [Earth Flux]
+# COLUMN pl_eqt:         Equilibrium Temperature [K]
+# COLUMN ttv_flag:       Data show Transit Timing Variations
+# COLUMN st_refname:     Stellar Parameter Reference
+# COLUMN st_spectype:    Spectral Type
+# COLUMN st_teff:        Stellar Effective Temperature [K]
+# COLUMN st_rad:         Stellar Radius [Solar Radius]
+# COLUMN st_mass:        Stellar Mass [Solar mass]
+# COLUMN st_met:         Stellar Metallicity [dex]
+# COLUMN st_metratio:    Stellar Metallicity Ratio
+# COLUMN st_logg:        Stellar Surface Gravity [log10(cm/s**2)]
+# COLUMN sy_refname:     System Parameter Reference
+# COLUMN rastr:          RA [sexagesimal]
+# COLUMN ra:             RA [deg]
+# COLUMN decstr:         Dec [sexagesimal]
+# COLUMN dec:            Dec [deg]
+# COLUMN sy_dist:        Distance [pc]
+# COLUMN sy_vmag:        V (Johnson) Magnitude
+# COLUMN sy_kmag:        Ks (2MASS) Magnitude
+# COLUMN sy_gaiamag:     Gaia Magnitude
+# COLUMN rowupdate:      Date of Last Update
+# COLUMN pl_pubdate:     Planetary Parameter Reference Publication Date
+# COLUMN releasedate:    Release Date
+#
+pl_name,hostname,default_flag,sy_snum,sy_pnum,discoverymethod,disc_year,disc_facility,soltype,pl_controv_flag,pl_refname,pl_orbper,pl_orbsmax,pl_rade,pl_radj,pl_bmasse,pl_bmassj,pl_bmassprov,pl_orbeccen,pl_insol,pl_eqt,ttv_flag,st_refname,st_spectype,st_teff,st_rad,st_mass,st_met,st_metratio,st_logg,sy_refname,rastr,ra,decstr,dec,sy_dist,sy_vmag,sy_kmag,sy_gaiamag,rowupdate,pl_pubdate,releasedate
+WASP-69 b,WASP-69,0,1,1,Transit,2014,SuperWASP,Published Confirmed,0,<a refstr=ANDERSON_ET_AL__2014 href=https://ui.adsabs.harvard.edu/abs/2014MNRAS.445.1114A/abstract target=ref>Anderson et al. 2014</a>,3.86813820000,0.0452500000,9.11300000,1.05700000,82.63200000,0.26000000,Mass,0.000000,,963.00,0,<a refstr=ANDERSON_ET_AL__2014 href=https://ui.adsabs.harvard.edu/abs/2014MNRAS.445.1114A/abstract target=ref>Anderson et al. 2014</a>,K5,4715.00,0.813000,0.826000,0.1440,[Fe/H],4.535000,<a refstr=STASSUN_ET_AL__2019 href=https://ui.adsabs.harvard.edu/abs/2019AJ....158..138S/abstract target=ref>TICv8</a>,21h00m06.23s,315.0259661,-05d05m41.49s,-5.0948570,49.96050000,9.8730000,7.4590000,9.4846600,2018-04-25,2014-12,2014-10-15
+WASP-69 b,WASP-69,0,1,1,Transit,2014,SuperWASP,TESS Project Candidate,0,<a refstr=EXOFOP_TESS_TOI href=https://exofop.ipac.caltech.edu/tess/view_toi.php target=ref>ExoFOP-TESS TOI</a>,3.86814921753,,12.26589028,1.09429132,,,,,180.5564,934.92,0,<a refstr=EXOFOP_TESS_TOI href=https://exofop.ipac.caltech.edu/tess/view_toi.php target=ref>ExoFOP-TESS TOI</a>,,4746.00,0.877591,,,,4.432300,<a refstr=STASSUN_ET_AL__2019 href=https://ui.adsabs.harvard.edu/abs/2019AJ....158..138S/abstract target=ref>TICv8</a>,21h00m06.23s,315.0259661,-05d05m41.49s,-5.0948570,49.96050000,9.8730000,7.4590000,9.4846600,2022-10-18,2017-07,2022-10-18
+WASP-69 b,WASP-69,0,1,1,Transit,2014,SuperWASP,Published Confirmed,0,<a refstr=KOKORI_ET_AL__2022 href=https://ui.adsabs.harvard.edu/abs/2022ApJS..258...40K/abstract target=ref>Kokori et al. 2022</a>,3.86813900000,,,,,,,,,,0,<a refstr=ANDERSON_ET_AL__2014 href=https://ui.adsabs.harvard.edu/abs/2014MNRAS.445.1114A/abstract target=ref>Anderson et al. 2014</a>,K5,4715.00,0.813000,0.826000,0.1440,[Fe/H],4.535000,<a refstr=STASSUN_ET_AL__2019 href=https://ui.adsabs.harvard.edu/abs/2019AJ....158..138S/abstract target=ref>TICv8</a>,21h00m06.23s,315.0259661,-05d05m41.49s,-5.0948570,49.96050000,9.8730000,7.4590000,9.4846600,2022-01-24,2022-02,2022-01-24
+WASP-69 b,WASP-69,0,1,1,Transit,2014,SuperWASP,Published Confirmed,0,<a refstr=CASASAYAS_BARRIS_ET_AL__2017 href=https://ui.adsabs.harvard.edu/abs/2017A&A...608A.135C/abstract target=ref>Casasayas-Barris et al. 2017</a>,3.86813820000,0.0452500000,11.84791300,1.05700000,82.63580000,0.26000000,Mass,0.000000,,963.00,0,<a refstr=CASASAYAS_BARRIS_ET_AL__2017 href=https://ui.adsabs.harvard.edu/abs/2017A&A...608A.135C/abstract target=ref>Casasayas-Barris et al. 2017</a>,,4700.00,0.813000,0.826000,,,,<a refstr=STASSUN_ET_AL__2019 href=https://ui.adsabs.harvard.edu/abs/2019AJ....158..138S/abstract target=ref>TICv8</a>,21h00m06.23s,315.0259661,-05d05m41.49s,-5.0948570,49.96050000,9.8730000,7.4590000,9.4846600,2019-11-27,2017-12,2019-12-05
+WASP-69 b,WASP-69,0,1,1,Transit,2014,SuperWASP,Published Confirmed,0,<a refstr=KOKORI_ET_AL__2023 href=https://ui.adsabs.harvard.edu/abs/2023ApJS..265....4K/abstract target=ref>Kokori et al. 2023</a>,3.86813888000,,,,,,,,,,0,<a refstr=ANDERSON_ET_AL__2014 href=https://ui.adsabs.harvard.edu/abs/2014MNRAS.445.1114A/abstract target=ref>Anderson et al. 2014</a>,K5,4715.00,0.813000,0.826000,0.1440,[Fe/H],4.535000,<a refstr=STASSUN_ET_AL__2019 href=https://ui.adsabs.harvard.edu/abs/2019AJ....158..138S/abstract target=ref>TICv8</a>,21h00m06.23s,315.0259661,-05d05m41.49s,-5.0948570,49.96050000,9.8730000,7.4590000,9.4846600,2024-03-04,2023-03,2024-03-04
+WASP-69 b,WASP-69,0,1,1,Transit,2014,SuperWASP,Published Confirmed,0,<a refstr=BONOMO_ET_AL__2017 href=https://ui.adsabs.harvard.edu/abs/2017A&A...602A.107B/abstract target=ref>Bonomo et al. 2017</a>,3.86813820000,0.0452700000,11.84791300,1.05700000,79.45750000,0.25000000,Mass,0.110000,,,0,<a refstr=BONOMO_ET_AL__2017 href=https://ui.adsabs.harvard.edu/abs/2017A&A...602A.107B/abstract target=ref>Bonomo et al. 2017</a>,,4700.00,0.813000,0.826000,0.1500,,,<a refstr=STASSUN_ET_AL__2019 href=https://ui.adsabs.harvard.edu/abs/2019AJ....158..138S/abstract target=ref>TICv8</a>,21h00m06.23s,315.0259661,-05d05m41.49s,-5.0948570,49.96050000,9.8730000,7.4590000,9.4846600,2019-03-18,2017-06,2019-03-21
+WASP-69 b,WASP-69,1,1,1,Transit,2014,SuperWASP,Published Confirmed,0,<a refstr=STASSUN_ET_AL__2017 href=https://ui.adsabs.harvard.edu/abs/2017AJ....153..136S/abstract target=ref>Stassun et al. 2017</a>,3.86814000000,,12.44199000,1.11000000,92.17070000,0.29000000,Mass,0.000000,,,0,<a refstr=STASSUN_ET_AL__2017 href=https://ui.adsabs.harvard.edu/abs/2017AJ....153..136S/abstract target=ref>Stassun et al. 2017</a>,,4700.00,0.860000,0.980000,0.1500,[Fe/H],4.500000,<a refstr=STASSUN_ET_AL__2019 href=https://ui.adsabs.harvard.edu/abs/2019AJ....158..138S/abstract target=ref>TICv8</a>,21h00m06.23s,315.0259661,-05d05m41.49s,-5.0948570,49.96050000,9.8730000,7.4590000,9.4846600,2018-04-25,2017-03,2018-04-26

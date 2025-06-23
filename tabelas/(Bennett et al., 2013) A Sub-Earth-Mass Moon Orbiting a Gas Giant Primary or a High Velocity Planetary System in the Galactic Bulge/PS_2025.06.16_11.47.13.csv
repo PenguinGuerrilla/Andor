@@ -1,0 +1,52 @@
+# This file was produced by the NASA Exoplanet Archive  http://exoplanetarchive.ipac.caltech.edu
+# Mon Jun 16 11:47:13 2025
+#
+# User preference: *
+#
+# CONSTRAINT:  where (pl_name_display like '%MOA-2011-BLG-262%')
+#
+# COLUMN pl_name:        Planet Name
+# COLUMN hostname:       Host Name
+# COLUMN default_flag:   Default Parameter Set
+# COLUMN sy_snum:        Number of Stars
+# COLUMN sy_pnum:        Number of Planets
+# COLUMN discoverymethod: Discovery Method
+# COLUMN disc_year:      Discovery Year
+# COLUMN disc_facility:  Discovery Facility
+# COLUMN soltype:        Solution Type
+# COLUMN pl_controv_flag: Controversial Flag
+# COLUMN pl_refname:     Planetary Parameter Reference
+# COLUMN pl_orbper:      Orbital Period [days]
+# COLUMN pl_orbsmax:     Orbit Semi-Major Axis [au]
+# COLUMN pl_rade:        Planet Radius [Earth Radius]
+# COLUMN pl_radj:        Planet Radius [Jupiter Radius]
+# COLUMN pl_bmasse:      Planet Mass or Mass*sin(i) [Earth Mass]
+# COLUMN pl_bmassj:      Planet Mass or Mass*sin(i) [Jupiter Mass]
+# COLUMN pl_bmassprov:   Planet Mass or Mass*sin(i) Provenance
+# COLUMN pl_orbeccen:    Eccentricity
+# COLUMN pl_insol:       Insolation Flux [Earth Flux]
+# COLUMN pl_eqt:         Equilibrium Temperature [K]
+# COLUMN ttv_flag:       Data show Transit Timing Variations
+# COLUMN st_refname:     Stellar Parameter Reference
+# COLUMN st_spectype:    Spectral Type
+# COLUMN st_teff:        Stellar Effective Temperature [K]
+# COLUMN st_rad:         Stellar Radius [Solar Radius]
+# COLUMN st_mass:        Stellar Mass [Solar mass]
+# COLUMN st_met:         Stellar Metallicity [dex]
+# COLUMN st_metratio:    Stellar Metallicity Ratio
+# COLUMN st_logg:        Stellar Surface Gravity [log10(cm/s**2)]
+# COLUMN sy_refname:     System Parameter Reference
+# COLUMN rastr:          RA [sexagesimal]
+# COLUMN ra:             RA [deg]
+# COLUMN decstr:         Dec [sexagesimal]
+# COLUMN dec:            Dec [deg]
+# COLUMN sy_dist:        Distance [pc]
+# COLUMN sy_vmag:        V (Johnson) Magnitude
+# COLUMN sy_kmag:        Ks (2MASS) Magnitude
+# COLUMN sy_gaiamag:     Gaia Magnitude
+# COLUMN rowupdate:      Date of Last Update
+# COLUMN pl_pubdate:     Planetary Parameter Reference Publication Date
+# COLUMN releasedate:    Release Date
+#
+pl_name,hostname,default_flag,sy_snum,sy_pnum,discoverymethod,disc_year,disc_facility,soltype,pl_controv_flag,pl_refname,pl_orbper,pl_orbsmax,pl_rade,pl_radj,pl_bmasse,pl_bmassj,pl_bmassprov,pl_orbeccen,pl_insol,pl_eqt,ttv_flag,st_refname,st_spectype,st_teff,st_rad,st_mass,st_met,st_metratio,st_logg,sy_refname,rastr,ra,decstr,dec,sy_dist,sy_vmag,sy_kmag,sy_gaiamag,rowupdate,pl_pubdate,releasedate
+MOA-2011-BLG-262L b,MOA-2011-BLG-262L,1,1,1,Microlensing,2014,MOA,Published Confirmed,0,<a refstr=BENNETT_ET_AL__2014 href=https://ui.adsabs.harvard.edu/abs/2014ApJ...785..155B/abstract target=ref>Bennett et al. 2014</a>,,0.9500000000,,,17.00000000,0.05300000,Mass,,,,0,<a refstr=BENNETT_ET_AL__2014 href=https://ui.adsabs.harvard.edu/abs/2014ApJ...785..155B/abstract target=ref>Bennett et al. 2014</a>,,,,0.110000,,,,<a refstr=BENNETT_ET_AL__2014 href=https://ui.adsabs.harvard.edu/abs/2014ApJ...785..155B/abstract target=ref>Bennett et al. 2014</a>,18h00m23.48s,270.0978330,-31d14m42.93s,-31.2452583,7200.00000000,,,,2020-03-13,2014-04,2019-12-05
